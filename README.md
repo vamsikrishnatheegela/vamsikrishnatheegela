@@ -212,7 +212,7 @@ One innovation direction I have explored is an **ultra-low-latency hardware-base
 
 </details>
 
-I have also been involved in conference-paper work associated with **CISCON** and **VDAT**, and have explored patent-oriented hardware innovation.
+I have also been involved in conference-paper work associated with **ICCES** and **UPWISECON**, and have explored patent-oriented hardware innovation.
 
 ## ◈ 05 — TOOLCHAIN
 
